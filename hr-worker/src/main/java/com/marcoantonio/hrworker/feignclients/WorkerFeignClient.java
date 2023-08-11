@@ -1,5 +1,5 @@
 package com.marcoantonio.hrworker.feignclients;
 
-public class WorkerFeignClient {
+public interface WorkerFeignClient {
 
 }
